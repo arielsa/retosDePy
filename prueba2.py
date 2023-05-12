@@ -7,7 +7,7 @@ if (clima == "si" ):
 else:
     print("no llevar paraguas")
 
-#condicional 2 : 
+#condicional 2 : //////////////
 
 user = "name"
 pasword = "123"
